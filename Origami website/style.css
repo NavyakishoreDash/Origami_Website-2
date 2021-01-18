@@ -1,0 +1,39 @@
+h1{
+    color: rgb(15, 0, 83);
+}
+h2{
+    color: rgb(0, 119, 255);
+}
+h3{
+    color: turquoise;
+}
+h4{
+    color: rgb(6, 75, 0);
+}
+h5{
+    color: turquoise;
+}
+h6{
+    color: turquoise;
+}
+p{
+    color: rgb(0, 251, 54);
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center
+}
+
+.menu{
+  display: flex;
+  flex-wrap:wrap-reverse;
+  justify-content:center
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
